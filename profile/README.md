@@ -28,7 +28,6 @@ If you have an idea and want to bring it to life, fill out this form: [Project S
 - **Contribute**: Check out our repos and become a part of the InnovateNext-Labs community!
 - **Connect with us**:
    - [GitHub](https://github.com/prajapatihet)
-   - [Twitter](https://twitter.com/InnovateNextLabs)
    - [LinkedIn](https://www.linkedin.com/in/hetkumar-prajapati)
 
 Stay tuned for **big ideas and bold moves** – because we’re just getting started! 💡🔥
